@@ -353,14 +353,12 @@ OldaleTown_Movement_1E918B: @ 81E918B
 OldaleTown_Text_1E918E: @ 81E918E
 	.string "There this cool bar in Mauville City \n"
 	.string "called Gastley, too bad I am not \p"
-	.string "allowed to buy some booze because I am\n"
-	.string " still a teen. :( \l"
-	.string "I even tried to buy booze with a fake\n"
-	.string "identity card and a disgiuse, but Rick,\p" 
-	.string " Astley directly recognized me, it’s \n"
-	.string " like he has some kind of psychic\p"
-	.string " powers to recognize me this quickly.\l"
-	.string "He told me nicely that I can’t drink \n"
+	.string "allowed to buy some drinks because\n"
+	.string " I am still a teen. :( \l"
+	.string "I even tried to buy drinks with a \n"
+	.string "fake identity card and a disgiuse, \p" 
+	.string "but they directly recognized me!\l"
+	.string "They told me nicely that I can’t drink \n"
 	.string " because it’s unhealthy for me in my \p"
 	.string "young age.\l"
 	.string "Miss me with that gay shit!\n"
@@ -370,6 +368,7 @@ OldaleTown_Text_1E918E: @ 81E918E
 OldaleTown_Text_1E91C0: @ 81E91C0
 	.string "Hi sweatheart!\n"
 	.string "I like giving useless tutorials\p"
+	.string " and waste your time.\l"
 	.string "Can I get you to come with me?$"
 
 OldaleTown_Text_1E91FD: @ 81E91FD
@@ -382,9 +381,11 @@ OldaleTown_Text_1E91FD: @ 81E91FD
 	.string " from me for wasting your time.$"
 	
 OldaleTown_Text_1E92AF: @ 81E92AF
-	.string "A POTION can be used anytime, so it’s\n"
-	.string "even more useful than a POKéMON CENTER\l"
-	.string "in certain situations.$"
+	.string "sniff... Why I am crying...\n"
+	.string "Waluigi didnt make it in Smash.\p"
+	.string "He is an Assist Trophy now.\l"
+	.string "Even Banjo-Kazooie and Bowsette.\n"
+	.string " are in Ultimate... sniff... $"
 
 OldaleTown_Text_1E9313: @ 81E9313
 	.string "Aaaaah! Wait!\n"
